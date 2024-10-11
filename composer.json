@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "AuthTOTP\\": "library/"
+        }
+    },
+    "require": {
+        "sonata-project/google-authenticator": "^2.3"
+    }
+}
